@@ -1,0 +1,79 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=2"/><meta name="theme-color" content="#222"/><meta http-equiv="X-UA-COMPATIBLE" content="IE=edge,chrome=1"/><meta name="renderer" content="webkit"/><link rel="icon" type="image/ico" sizes="32x32" href="/assets/favicon.ico"/><link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"/><link rel="alternate" href="/rss.xml" title="🌟星星之火，可以燎原🔥" type="application/rss+xml"><link rel="alternate" href="/atom.xml" title="🌟星星之火，可以燎原🔥" type="application/atom+xml"><link rel="alternate" type="application/json" title="🌟星星之火，可以燎原🔥" href="https://zycodecloud.github.io/feed.json"/><link rel="preconnect" href="https://lf9-cdn-tos.bytecdntp.com"/><link rel="dns-prefetch" href="https://cdn.jsdelivr.net"/><link rel="dns-prefetch" href="https://unpkg.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext"><link rel="stylesheet" href="/css/app.css?v=0.3.9"><script src="https://cdn.staticfile.org/vue/3.2.45/vue.global.prod.js"></script><link rel="canonical" href="https://zycodecloud.github.io/2023/12/22/GPT/%E5%BE%AE%E8%BD%AF-Copilot/"><title>微软 Copilot</title><meta name="generator" content="Hexo 7.0.0"></head><body itemscope itemtype="http://schema.org/WebPage"><div id="loading"><div class="cat"><div class="body"></div><div class="head"><div class="face"></div></div><div class="foot"><div class="tummy-end"></div><div class="bottom"></div><div class="legs left"></div><div class="legs right"></div></div><div class="paw"><div class="hands left"></div><div class="hands right"></div></div></div></div><div id="container"><header id="header" itemscope itemtype="http://schema.org/WPHeader"><div class="inner"><div id="brand"><div class="pjax"><h1 itemprop="name headline">微软 Copilot</h1><div class="meta"><span class="item" title="创建时间：2023-12-22 21:31:04"><span class="icon"><i class="ic i-calendar"></i></span><span class="text">发表于</span><time itemprop="dateCreated datePublished" datetime="2023-12-22T21:31:04+08:00">2023-12-22</time></span><span class="item" title="本文字数"><span class="icon"><i class="ic i-pen"></i></span><span class="text">本文字数</span><span>409</span><span class="text">字</span></span><span class="item" title="阅读时长"><span class="icon"><i class="ic i-clock"></i></span><span class="text">阅读时长</span><span>1 分钟</span></span></div></div></div><nav id="nav"><div class="inner"><div class="toggle"><div class="lines" aria-label="切换导航栏"><span class="line"></span><span class="line"></span><span class="line"></span></div></div><ul class="menu"><li class="item title"><a href="/" rel="start">STAR🌟WORLD</a></li></ul><ul class="right" id="rightNav"><li class="item theme" @click="changeThemeByBtn"><i class="ic" :class="{'i-sun': !themeStatus,'i-moon': themeStatus}"></i></li><li class="item search"><i class="ic i-search"></i></li></ul></div></nav></div><div class="pjax" id="imgs"><ul><li class="item" data-background-image="https://www.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp"></li><li class="item" data-background-image="https://www.bing.com/th?id=OHR.MedievalLabro_ZH-CN0015356188_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp"></li><li class="item" data-background-image="https://www.bing.com/th?id=OHR.HawksbillTurtle_ZH-CN0562063994_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp"></li><li class="item" data-background-image="https://www.bing.com/th?id=OHR.GoldenEnchantments_ZH-CN9686531344_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp"></li><li class="item" data-background-image="https://www.bing.com/th?id=OHR.LacMontagnon_ZH-CN8301464080_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp"></li><li class="item" data-background-image="https://www.bing.com/th?id=OHR.MiamiDT_ZH-CN3528760113_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp"></li></ul></div></header><div id="waves"><svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto"><defs><path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"></path></defs><g class="parallax"><use xlink:href="#gentle-wave" x="48" y="0"></use><use xlink:href="#gentle-wave" x="48" y="3"></use><use xlink:href="#gentle-wave" x="48" y="5"></use><use xlink:href="#gentle-wave" x="48" y="7"></use></g></svg></div><main><div class="inner"><div class="pjax" id="main"><div class="article wrap"><div class="breadcrumb" itemListElement itemscope itemtype="https://schema.org/BreadcrumbList"><i class="ic i-home"></i><span><a href="/">首页</a></span><i class="ic i-angle-right"></i><span class="current" itemprop="itemListElement" itemscope="itemscope" itemtype="https://schema.org/ListItem"><a href="/categories/GPT/" itemprop="item" rel="index" title="分类于GPT"><span itemprop="name">GPT<meta itemprop="position" content="0"/></span></a></span></div><article class="post block" itemscope="itemscope" itemtype="http://schema.org/Article" lang="zh-CN"><link itemprop="mainEntityOfPage" href="https://zycodecloud.github.io/2023/12/22/GPT/%E5%BE%AE%E8%BD%AF-Copilot/"/><span hidden="hidden" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person"><meta itemprop="image" content="/assets/http:/q.qlogo.cn/headimg_dl?dst_uin=1770551574&amp;spec=640&amp;img_type=jpg"/><meta itemprop="name" content="辰海星"/><meta itemprop="description" content=", "/></span><span hidden="hidden" itemprop="publisher" itemscope="itemscope" itemtype="http://schema.org/Organization"><meta itemprop="name" content="🌟星星之火，可以燎原🔥"/></span><div class="body md" itemprop="articleBody"><h1 id="1什么是copilot"><a class="anchor" href="#1什么是copilot">#</a> 1. 什么是 Copilot？</h1>
+<blockquote>
+<p>Copilot 是微软发布的 AI 助手，就是人工智能聊天机器人</p>
+</blockquote>
+<h1 id="2copilot能做什么"><a class="anchor" href="#2copilot能做什么">#</a> 2.Copilot 能做什么？</h1>
+<blockquote>
+<p>提问，给出解决方案，写代码，找资料，写文案...</p>
+</blockquote>
+<h1 id="3它长什么样"><a class="anchor" href="#3它长什么样">#</a> 3. 它长什么样？</h1>
+<p><img data-src="https://i.imgs.ovh/2023/12/22/WaQeu.jpeg" alt="Copilot" /></p>
+<h1 id="4怎么使用"><a class="anchor" href="#4怎么使用">#</a> 4. 怎么使用？</h1>
+<blockquote>
+<p>1. 选择对话方式</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">选择源</th>
+<th style="text-align:center">区别</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">创造力</td>
+<td style="text-align:center">更接近 GPT-4</td>
+</tr>
+<tr>
+<td style="text-align:center">平衡</td>
+<td style="text-align:center">普普通通，一般不使用</td>
+</tr>
+<tr>
+<td style="text-align:center">精确</td>
+<td style="text-align:center">适用于搜寻精准的答案</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>2. 输入提问内容</p>
+</blockquote>
+<p>例如：什么是 ChatGPT？</p>
+<blockquote>
+<p>3. 等待搜索结果</p>
+</blockquote>
+<p><img data-src="https://i.imgs.ovh/2023/12/22/WaQeu.jpeg" alt="搜索结果" /></p>
+</div><footer><div class="meta"><span class="item"><span class="icon"><i class="ic i-calendar-check"></i></span><span class="text">更新于</span><time title="修改时间：2023-12-22 22:18:35" itemprop="dateModified" datetime="2023-12-22T22:18:35+08:00">2023-12-22</time></span></div><div id="copyright"><ul><li class="author"><strong>本文作者：</strong>辰海星<i class="ic i-at"><em>@</em></i>🌟星星之火，可以燎原🔥</li><li class="link"><strong>本文链接：</strong><a href="https://zycodecloud.github.io/2023/12/22/GPT/%E5%BE%AE%E8%BD%AF-Copilot/" title="微软 Copilot">https://zycodecloud.github.io/2023/12/22/GPT/微软-Copilot/</a></li><li class="license"><strong>版权声明：</strong>本站所有文章除特别声明外，均采用 <a target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</a> 许可协议。转载请注明出处！</li></ul></div></footer></article></div><div class="post-nav"><div class="item left"><a href="/2023/12/22/prompt/%E5%88%A9%E7%94%A8prompt%E8%AE%A9Copilt%E8%BE%93%E5%87%BA%E6%9B%B4%E5%87%86%E7%A1%AE%E7%9A%84%E7%AD%94%E6%A1%88/" rel="prev" itemprop="url" data-background-image="https:&#x2F;&#x2F;www.bing.com&#x2F;th?id&#x3D;OHR.CreteHarbor_ZH-CN0937533372_1920x1080.jpg&amp;rf&#x3D;LaDigue_1920x1080.jpg&amp;pid&#x3D;hp" title="利用prompt让Copilot输出更准确的答案"><span class="type">上一篇</span><span class="category"><i class="ic i-flag"></i>prompt</span><h3>利用prompt让Copilot输出更准确的答案</h3></a></div><div class="item right"><a href="/2023/12/22/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/youtube%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%B8%88%E6%8F%90%E4%BE%9B%E7%9A%84%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/" rel="next" itemprop="url" data-background-image="https:&#x2F;&#x2F;www.bing.com&#x2F;th?id&#x3D;OHR.CordouanLighthouse_ZH-CN6267155218_1920x1080.jpg&amp;rf&#x3D;LaDigue_1920x1080.jpg&amp;pid&#x3D;hp" title="youtube工具大师提供的免费节点"><span class="type">下一篇</span><span class="category"><i class="ic i-flag"></i>科学上网</span><h3>youtube工具大师提供的免费节点</h3></a></div></div></div><div id="sidebar"><div class="inner"><div class="panels"><div class="inner"><div class="contents panel pjax" data-title="文章目录"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#1%E4%BB%80%E4%B9%88%E6%98%AFcopilot"><span class="toc-number">1.</span> <span class="toc-text"> 1. 什么是 Copilot？</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#2copilot%E8%83%BD%E5%81%9A%E4%BB%80%E4%B9%88"><span class="toc-number">2.</span> <span class="toc-text"> 2.Copilot 能做什么？</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#3%E5%AE%83%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7"><span class="toc-number">3.</span> <span class="toc-text"> 3. 它长什么样？</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#4%E6%80%8E%E4%B9%88%E4%BD%BF%E7%94%A8"><span class="toc-number">4.</span> <span class="toc-text"> 4. 怎么使用？</span></a></li></ol></div><div class="related panel pjax" data-title="系列文章"><ul><li  class="active"><a href="/2023/12/22/GPT/%E5%BE%AE%E8%BD%AF-Copilot/" rel="bookmark" title="微软 Copilot">微软 Copilot</a></li></ul></div><div class="overview panel" data-title="站点概览"><div class="author" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person"><img class="image" itemprop="image" alt="辰海星" data-src="http://q.qlogo.cn/headimg_dl?dst_uin=1770551574&amp;spec=640&amp;img_type=jpg"/><p class="name" itemprop="name">辰海星</p><div class="description" itemprop="description"></div></div><nav class="state"><div class="item posts"><a href="/archives/"><span class="count">5</span><span class="name">文章</span></a></div><div class="item categories"><a href="/categories/"><span class="count">5</span><span class="name">分类</span></a></div></nav><div class="social"><a target="_blank" rel="noopener" href="https://res.abeim.cn/api/qq/?qq=1770551574" class="item QQ" title="https:&#x2F;&#x2F;res.abeim.cn&#x2F;api&#x2F;qq&#x2F;?qq&#x3D;1770551574"><i class="ic i-qq"></i></a><a target="_blank" rel="noopener" href="https://i.imgs.ovh/2023/12/18/68VQo.jpeg" class="item wechat" title="https:&#x2F;&#x2F;i.imgs.ovh&#x2F;2023&#x2F;12&#x2F;18&#x2F;68VQo.jpeg"><i class="ic i-weixin"></i></a><a target="_blank" rel="noopener" href="https://github.com/zycodecloud" class="item github" title="https:&#x2F;&#x2F;github.com&#x2F;zycodecloud"><i class="ic i-github"></i></a></div><div class="menu"><li class="item"><a href="/" rel="section"><i class="ic i-home"></i>首页</a></li><li class="item"><a href="/archives/" rel="section"><i class="ic i-list-alt"></i>时间线</a></li><li class="item"><a href="/categories/" rel="section"><i class="ic i-th"></i>分类</a></li><li class="item"><a href="/life/" rel="section"><i class="ic i-star"></i>生活</a></li><li class="item"><a href="/about/" rel="section"><i class="ic i-user"></i>关于</a></li></div></div></div></div><ul id="quick"><li class="prev pjax"><a href="/2023/12/22/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/youtube%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%B8%88%E6%8F%90%E4%BE%9B%E7%9A%84%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a></li><li class="up"><i class="ic i-arrow-up"></i></li><li class="down"><i class="ic i-arrow-down"></i></li><li class="next pjax"><a href="/2023/12/22/prompt/%E5%88%A9%E7%94%A8prompt%E8%AE%A9Copilt%E8%BE%93%E5%87%BA%E6%9B%B4%E5%87%86%E7%A1%AE%E7%9A%84%E7%AD%94%E6%A1%88/" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a></li><li class="percent"></li></ul></div></div><div class="dimmer"></div></div></main><footer id="footer"><div class="inner"><div class="widgets"></div><div class="status"><div class="copyright"><span itemprop="copyrightYear">2023</span><span class="with-love"><i class="ic i-sakura rotate"></i></span><span class="author" itemprop="copyrightHolder">辰海星 @ STAR🌟WORLD</span></div><div class="count"><span class="post-meta-item-icon"><i class="ic i-chart-area"></i></span><span title="站点总字数">5k 字</span><span class="post-meta-divider">|</span><span class="post-meta-item-icon"><i class="ic i-coffee"></i></span><span title="站点阅读时长">5 分钟</span></div><div class="powered-by">基于 Hexo & ShokaX</div></div></div></footer></div><script data-config type="text/javascript">var LOCAL = {
+        path: `2023/12/22/GPT/微软-Copilot/`,
+        favicon: {
+        show: `谢谢你这么好看还来看我！`,
+        hide: `我想你了！`
+    },
+    search: {
+        placeholder: "文章搜索",
+        empty: "关于 「 ${query} 」，什么也没搜到",
+        stats: "${time} ms 内找到 ${hits} 条结果"
+    },
+    chart: false,
+    copy_tex: false,
+    katex: false,
+    mermaid: false,
+    audio: undefined,
+    fancybox: true,
+    nocopy: false,
+    outime: true,
+    template: `<div class="note warning"><p><span class="label warning">文章时效性提示</span><br>这是一篇发布于 {{publish}} 天前，最后一次更新在 {{updated}} 天前的文章，部分信息可能已经发生改变，请注意甄别。</p></div>`,
+    quiz: {
+        choice: `单选题`,
+        multiple: `多选题`,
+        true_false: `判断题`,
+        essay: `问答题`,
+        gap_fill: `填空题`,
+        mistake: `错题备注`
+    },
+    ignores: [
+        (uri) => uri.includes('#'),
+        (uri) => new RegExp(LOCAL.path + '$').test(uri),
+            []
+    ]
+};
+</script><script src="https://polyfill.io/v3/polyfill.min.js?features=default,fetch"></script><script src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-6-M/pace/1.0.2/pace.min.js"></script><script src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-6-M/algoliasearch/4.12.1/algoliasearch-lite.umd.min.js"></script><script src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-6-M/instantsearch.js/4.39.0/instantsearch.production.min.js"></script><script src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-6-M/quicklink/2.2.0/quicklink.umd.min.js"></script><script src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-6-M/??jquery/3.5.1/jquery.min.js,fancybox/3.5.7/jquery.fancybox.min.js,justifiedGallery/3.8.1/js/jquery.justifiedGallery.min.js" async></script><script src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-6-M/KaTeX/0.15.2/contrib/copy-tex.min.js" async></script><script src="/js/app.js?v=0.3.9"></script></body></html>
