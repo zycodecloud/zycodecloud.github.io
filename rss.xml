@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>✨星星之火，可以燎原🔥</title>
+        <subtitle></subtitle>
+        <icon>https://zycodecloud.github.io/assets/favicon.ico</icon>
+        <link>https://zycodecloud.github.io</link>
+        <author>
+          <name>辰海星</name>
+        </author>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Wed, 15 May 2024 14:28:02 +0800</pubDate>
+        <lastBuildDate>Wed, 15 May 2024 14:28:02 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://zycodecloud.github.io/2024/05/15/%E5%88%9B%E4%B8%9A/%E5%88%9B%E4%B8%9A%E7%9B%AE%E5%BD%95/</guid>
+            <title>创业目录</title>
+            <link>https://zycodecloud.github.io/2024/05/15/%E5%88%9B%E4%B8%9A/%E5%88%9B%E4%B8%9A%E7%9B%AE%E5%BD%95/</link>
+            <category term="创业" scheme="https://zycodecloud.github.io/categories/%E5%88%9B%E4%B8%9A/" />
+            <pubDate>Wed, 15 May 2024 14:28:02 +0800</pubDate>
+            <description><![CDATA[ &lt;h3 id=&#34;即将进行的任务&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#即将进行的任务&#34;&gt;#&lt;/a&gt; 即将进行的任务&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;写一个真心话大冒险小程序&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;x 站（危险）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;摆摊（卖零食，卖纸）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;副业接单&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;醒酒馆（开店，风险高）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;个人信息服务&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;币圈搬砖（等电脑配置更好，需要更高的电费）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ChatGPT 服务（自己额外配置代理，类似开直播运营）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;工作&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;开游戏直播（情侣打游戏直播撒狗粮）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;目前规划首先需要迈出第一步&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#目前规划首先需要迈出第一步&#34;&gt;#&lt;/a&gt; 目前规划（首先需要迈出第一步）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;先找到工作（直到支付了学费 + 培训费）2000+6000=8000  ✔&lt;/li&gt;
+&lt;li&gt;进行培训，为期 4 个月，晚上培训&lt;/li&gt;
+&lt;li&gt;考虑找网安工作&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://zycodecloud.github.io/2024/05/07/Windows/%E5%AE%89%E8%A3%85Windows%E8%B7%B3%E8%BF%87%E9%9C%80%E8%A6%81%E8%81%94%E7%BD%91%E7%BB%A7%E7%BB%AD%E4%BB%A3%E7%A0%81/</guid>
+            <title>安装Windows跳过需要联网继续代码</title>
+            <link>https://zycodecloud.github.io/2024/05/07/Windows/%E5%AE%89%E8%A3%85Windows%E8%B7%B3%E8%BF%87%E9%9C%80%E8%A6%81%E8%81%94%E7%BD%91%E7%BB%A7%E7%BB%AD%E4%BB%A3%E7%A0%81/</link>
+            <category term="Windows" scheme="https://zycodecloud.github.io/categories/Windows/" />
+            <pubDate>Tue, 07 May 2024 21:01:14 +0800</pubDate>
+            <description><![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;安装 Windows 跳过需要联网继续代码&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;在进入语言设置界面的时候  按 &lt;code&gt;shift+F10&lt;/code&gt; ，进入 &lt;code&gt;CMD&lt;/code&gt; ，输入&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;oobe/BypassNRO&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;重启后即可跳过&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://zycodecloud.github.io/2024/04/17/JAVA/%E4%BD%BF%E7%94%A8native-image%E7%BC%96%E8%AF%91springboot%E9%A1%B9%E7%9B%AE%E4%B8%BAexe%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6/</guid>
+            <title>使用native-image编译springboot项目为exe可执行文件</title>
+            <link>https://zycodecloud.github.io/2024/04/17/JAVA/%E4%BD%BF%E7%94%A8native-image%E7%BC%96%E8%AF%91springboot%E9%A1%B9%E7%9B%AE%E4%B8%BAexe%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6/</link>
+            <category term="JAVA" scheme="https://zycodecloud.github.io/categories/JAVA/" />
+            <pubDate>Wed, 17 Apr 2024 16:56:10 +0800</pubDate>
+            <description><![CDATA[ &lt;h3 id=&#34;安装-graalvm-jdk&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装-graalvm-jdk&#34;&gt;#&lt;/a&gt; 安装 GraalVM JDK&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;下载并安装 &lt;a href=&#34;https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.3.1&#34;&gt;GraalVM JDK&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://t.tutu.to/img/ovfg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;设置环境变量  &lt;code&gt;JAVA_HOME&lt;/code&gt;  为 GraalVM JDK 的安装路径&lt;/li&gt;
+&lt;li&gt;添加 GraalVM JDK 的 bin 目录到 PATH 环境变量&lt;/li&gt;
+&lt;li&gt;运行  &lt;code&gt;java -version&lt;/code&gt;  命令，检查是否成功安装和配置 GraalVM JDK&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://t.tutu.to/img/V1gd&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;安装-native-image&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装-native-image&#34;&gt;#&lt;/a&gt; 安装 native-image&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;打开 cmd。输入 &lt;code&gt;gu install native-image&lt;/code&gt;  (需要科学上网，如果下载不了，建议下载 GraalVM JDK 下的 jar 包进行导入)&lt;/li&gt;
+&lt;li&gt;输入 &lt;code&gt;gu list&lt;/code&gt;  查看是否安装成功&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://t.tutu.to/img/VgLn&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;安装-visual-studio&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装-visual-studio&#34;&gt;#&lt;/a&gt; 安装 Visual studio&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;下载并安装 &lt;a href=&#34;https://visualstudio.microsoft.com/zh-hans/&#34;&gt;Visual Studio&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;选择 Visual Studio Community 2022&lt;img loading=&#34;lazy&#34; data-src=&#34;https://t.tutu.to/img/Vw9R&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;下载完成后打开安装文件&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://t.tutu.to/img/VTqG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;工作负载，选择使用 C++ 桌面开发&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://t.tutu.to/img/o8Ym&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;单个组件，搜索 msvc，选择 2-8，搜索 win，选择 win10--11 SDK&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://t.tutu.to/img/VQwo&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;语言包，选择英文&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://t.tutu.to/img/V4QJ&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;点击安装&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;打包springboot为exe文件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#打包springboot为exe文件&#34;&gt;#&lt;/a&gt; 打包 springboot 为.exe 文件&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;新建 spring boot 项目，导入 &lt;code&gt;Graalvm Native&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://t.tutu.to/img/oUNX&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;勾选配置文件中的 &lt;code&gt;native&lt;/code&gt; ，执行 &lt;code&gt;clean&lt;/code&gt; ， &lt;code&gt;native:compile&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://t.tutu.to/img/VymH&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;成功导出exe文件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#成功导出exe文件&#34;&gt;#&lt;/a&gt; 成功导出 exe 文件&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://t.tutu.to/img/Vjge&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://t.tutu.to/img/VtOi&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;启动速度也是非常之快&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://t.tutu.to/img/o0Qj&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;报错情况&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#报错情况&#34;&gt;#&lt;/a&gt; 报错情况&lt;/h3&gt;
+&lt;h4 id=&#34;1返回值不为零&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1返回值不为零&#34;&gt;#&lt;/a&gt; 1. 返回值不为零&lt;/h4&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Execution of D:&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;project_resource&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;graalvm-ce-java17-22.3.0&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;bin&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;native-image.cmd @target&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;tmp&lt;span class=&#34;token punctuation&#34;&gt;\&lt;/span&gt;native-image-2476901968031795160.args com.chx.hengxinmain.HengxinMainApplication returned non-zero result&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;blockquote&gt;
+&lt;p&gt;解决方案&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;在开始菜单，进入 &lt;code&gt;x64 Native Tools Command Prompt for VS 2022&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;输入 &lt;code&gt;native-image @target\tmp\native-image-2476901968031795160.args &lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;2找不到启动类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2找不到启动类&#34;&gt;#&lt;/a&gt; 2. 找不到启动类&lt;/h4&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;Error: Please specify class &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;or &lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;module&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt;/&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;mainclass&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; containing the main entry point method. &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;see --help&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;blockquote&gt;
+&lt;p&gt;解决方案&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;在 pom.xml 文件中配置&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&#34;highlight xml&#34;&gt;&lt;figcaption data-lang=&#34;XML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;plugin&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;groupId&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;org.graalvm.buildtools&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;groupId&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;artifactId&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;native-maven-plugin&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;artifactId&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;configuration&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    	&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;mainClass&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;com.chx.hengxinmain.HengxinMainApplication&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;mainClass&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;configuration&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;plugin&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;在开始菜单，进入 &lt;code&gt;x64 Native Tools Command Prompt for VS 2022&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;输入 &lt;code&gt;native-image @target\tmp\native-image-2476901968031795160.args com.chx.hengxinmain.HengxinMainApplication &lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://zycodecloud.github.io/2023/12/21/markdown/markdown%E8%AF%AD%E6%B3%95/</guid>
+            <title>markdown语法</title>
+            <link>https://zycodecloud.github.io/2023/12/21/markdown/markdown%E8%AF%AD%E6%B3%95/</link>
+            <category term="Markdown" scheme="https://zycodecloud.github.io/categories/Markdown/" />
+            <pubDate>Thu, 21 Dec 2023 22:07:04 +0800</pubDate>
+            <description><![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;刚开始学习 markdown 语法，记录一下，忘了可以回来看，还有更多语法也会补充&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;1-文件开头页面头部参数设置-例如&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-文件开头页面头部参数设置-例如&#34;&gt;#&lt;/a&gt; 1. &lt;strong&gt;文件开头&lt;/strong&gt;：页面头部参数设置。例如：&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;要用 --- --- 括起来&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&#34;highlight markdown&#34;&gt;&lt;figcaption data-lang=&#34;markdown&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token front-matter-block&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;---&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token front-matter yaml language-yaml&#34;&gt;&lt;span class=&#34;token key atrule&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; 文章标题&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;date&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; 文章发布的时间&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;comment&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;false&lt;/span&gt;   &lt;span class=&#34;token comment&#34;&gt;# true/false 对应开启 / 关闭本文章评论&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;sticky&lt;/span&gt;  &lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;true&lt;/span&gt;   &lt;span class=&#34;token comment&#34;&gt;# 置顶文章&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;tags&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt; 文章标签1&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt; 文章标签2&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;categories&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;计算机科学&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; Linux&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;cover&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; cover.png &lt;span class=&#34;token comment&#34;&gt;# 文章顶部和文章介绍图（将覆盖文章主页轮播图）&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;audio&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt; https&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;//music.163.com/song&lt;span class=&#34;token punctuation&#34;&gt;?&lt;/span&gt;id=1387098940&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;audio&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h1 id=&#34;2-标题使用井号表示标题级别-例如&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-标题使用井号表示标题级别-例如&#34;&gt;#&lt;/a&gt; 2. &lt;strong&gt;标题&lt;/strong&gt;：使用井号（#）表示标题级别。例如：&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;# 一级标题
+## 二级标题
+### 三级标题
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;示例：&lt;/p&gt;
+&lt;h1 id=&#34;一级标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一级标题&#34;&gt;#&lt;/a&gt; 一级标题&lt;/h1&gt;
+&lt;h2 id=&#34;二级标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二级标题&#34;&gt;#&lt;/a&gt; 二级标题&lt;/h2&gt;
+&lt;h3 id=&#34;三级标题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#三级标题&#34;&gt;#&lt;/a&gt; 三级标题&lt;/h3&gt;
+&lt;h1 id=&#34;3-强调使用星号或下划线_表示斜体和粗体-例如&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-强调使用星号或下划线_表示斜体和粗体-例如&#34;&gt;#&lt;/a&gt; 3. &lt;strong&gt;强调&lt;/strong&gt;：使用星号（*）或下划线（_）表示斜体和粗体。例如：&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;*斜体*
+**粗体**
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;示例：&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;斜体&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;粗体&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;4-删除线使用波浪号~表示删除线-例如&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-删除线使用波浪号~表示删除线-例如&#34;&gt;#&lt;/a&gt; 4. &lt;strong&gt;删除线&lt;/strong&gt;：使用波浪号（~）表示删除线。例如：&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;~~被删除的文字~~
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;示例：&lt;/p&gt;
+&lt;p&gt;&lt;s&gt;被删除的文字&lt;/s&gt;&lt;/p&gt;
+&lt;h1 id=&#34;5-引用使用大于号表示引用-例如&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5-引用使用大于号表示引用-例如&#34;&gt;#&lt;/a&gt; 5. &lt;strong&gt;引用&lt;/strong&gt;：使用大于号（&amp;gt;）表示引用。例如：&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;&amp;gt; 这是一段引用文字。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;示例：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是一段引用文字。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;6-列表有序列表使用数字加点1表示无序列表使用短横线-或星号表示-例如&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#6-列表有序列表使用数字加点1表示无序列表使用短横线-或星号表示-例如&#34;&gt;#&lt;/a&gt; 6. &lt;strong&gt;列表&lt;/strong&gt;：有序列表使用数字加点（1.）表示，无序列表使用短横线（-）或星号（*）表示。例如：&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;1. 有序列表项1
+2. 有序列表项2
+
+- 无序列表项1
+- 无序列表项2
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;示例：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;有序列表项 1&lt;/li&gt;
+&lt;li&gt;有序列表项 2&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;无序列表项 1&lt;/li&gt;
+&lt;li&gt;无序列表项 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;7-代码块使用三个反引号表示代码块并指定语言以实现语法高亮-例如&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#7-代码块使用三个反引号表示代码块并指定语言以实现语法高亮-例如&#34;&gt;#&lt;/a&gt; 7. &lt;strong&gt;代码块&lt;/strong&gt;：使用三个反引号（```）表示代码块，并指定语言以实现语法高亮。例如：&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;```javascript
+function helloWorld() &amp;#123;
+    console.log(&#39;Hello, World!&#39;);
+&amp;#125;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;示例：&lt;/p&gt;
+&lt;figure class=&#34;highlight javascript&#34;&gt;&lt;figcaption data-lang=&#34;javascript&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;function&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;helloWorld&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    console&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;Hello, World!&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;或者使用反引号（`）表示内联代码。例如：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;在 JavaScript 中，你可以使用 `console.log()` 输出信息。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;示例：&lt;/p&gt;
+&lt;p&gt;在 JavaScript 中，你可以使用  &lt;code&gt;console.log()&lt;/code&gt;  输出信息。&lt;/p&gt;
+&lt;h1 id=&#34;8-链接和图片使用方括号表示链接文本或图片的替代文本使用圆括号表示链接地址或图片地址-例如&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#8-链接和图片使用方括号表示链接文本或图片的替代文本使用圆括号表示链接地址或图片地址-例如&#34;&gt;#&lt;/a&gt; 8. &lt;strong&gt;链接和图片&lt;/strong&gt;：使用方括号（[]）表示链接文本或图片的替代文本，使用圆括号（()）表示链接地址或图片地址。例如：&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;[百度](https://www.baidu.com)
+![图片替代文本](https://i.imgs.ovh/2023/12/17/6bsdv.jpeg)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;示例：&lt;a href=&#34;https://www.baidu.com&#34;&gt;百度&lt;/a&gt;&lt;br /&gt;
+&lt;img loading=&#34;lazy&#34; data-src=&#34;https://i.imgs.ovh/2023/12/17/6bsdv.jpeg&#34; alt=&#34;图片替代文本&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;9-表格使用管道符分隔表头和表体的单元格使用冒号表示对齐方式-例如&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#9-表格使用管道符分隔表头和表体的单元格使用冒号表示对齐方式-例如&#34;&gt;#&lt;/a&gt; 9. &lt;strong&gt;表格&lt;/strong&gt;：使用管道符（|）分隔表头和表体的单元格，使用冒号（:）表示对齐方式。例如：&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;| 左对齐 | 居中对齐 | 右对齐 |
+| :----: | :------: | -----: |
+| 单元格1 | 单元格2   | 单元格3 |
+| 单元格4 | 单元格5   | 单元格6 |
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;示例：&lt;/p&gt;
+&lt;p&gt;| 左对齐  | 居中对齐 |  右对齐 |&lt;br /&gt;
+| :-----: | :------: | ------: |&lt;br /&gt;
+| 单元格 1 | 单元格 2  | 单元格 3 |&lt;br /&gt;
+| 单元格 4 | 单元格 5  | 单元格 6 |&lt;/p&gt;
+&lt;h1 id=&#34;10-任务列表使用中括号表示任务完成状态-例如&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#10-任务列表使用中括号表示任务完成状态-例如&#34;&gt;#&lt;/a&gt; 10. &lt;strong&gt;任务列表&lt;/strong&gt;：使用中括号（[]）表示任务完成状态。例如：&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;- [x] 已完成的任务
+- [ ] 未完成的任务
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;​	示例：&lt;/p&gt;
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_0&#34; checked=&#34;true&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_0&#34;&gt; 已完成的任务&lt;/label&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;
+&lt;p&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_1&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_1&#34;&gt; 未完成的任务&lt;/label&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
